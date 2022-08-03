@@ -1,0 +1,9 @@
+{
+	"ip":"Jas1LDpB.aternos.me",
+	"port": 27476,
+	"name": "afk",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register 12345",
+	"login-cmd":"/login 12345"
+}
